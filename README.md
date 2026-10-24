@@ -148,3 +148,4 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 5. [producthunt](https://www.producthunt.com/discussions/the-ultimate-product-hunt-black-friday-deal-list)
 6. [blackfridaydeals.dev](https://blackfridaydeals.dev)
 7. [saas.blackfriday](https://saas.blackfriday/)
+8. [saasblackfriday](https://saasblackfriday.online/)
